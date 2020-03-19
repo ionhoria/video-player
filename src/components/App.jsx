@@ -17,7 +17,7 @@ const AppContainer = styled.div`
   width: 100vw;
   padding: 1rem;
   box-sizing: border-box;
-  background-color: white;
+  background-color: #f9f9f9;
   display: flex;
   flex-direction: column;
   justify-content: center;
