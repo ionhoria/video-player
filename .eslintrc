@@ -4,6 +4,10 @@
   "plugins": ["prettier"],
   "rules": {
     "prettier/prettier": ["error"],
-    "no-unused-vars": [1, { "vars": "all", "args": "after-used" }]
+    "no-unused-vars": [1, { "vars": "all", "args": "after-used" }],
+    "jsx-a11y/media-has-caption": 0,
+    "jsx-a11y/click-events-have-key-events": 0,
+    "jsx-a11y/no-static-element-interactions": 0,
+    "react/prop-types": 0
   }
 }
